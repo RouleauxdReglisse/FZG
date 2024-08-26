@@ -1,0 +1,22 @@
+Large ornate pillars of stone engraved with bones hold up the ceiling of this room. Beasts of flesh are alerted to your sound.
+0
+Door  0 5 TrainingRoom
+Block  2 6
+Block  2 7
+Block  2 8
+Block  2 4
+Block  2 3
+Block  2 2
+Block  8 4
+Block  8 3
+Block  8 2
+Block  8 6
+Block  8 7
+Block  8 8
+Block  5 5
+Block  5 6
+Block  5 4
+Wight  3 3
+Wight  5 8
+Wight  7 5
+Door  5 0 MiniBossRoom

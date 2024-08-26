@@ -1,0 +1,18 @@
+
+0
+Block  2 7
+Block  2 6
+Block  2 4
+Block  2 3
+Block  4 3
+Block  6 3
+Block  8 3
+Block  8 4
+Block  8 6
+Block  8 7
+Block  6 7
+Block  4 7
+BombPlant  2 5
+BombPlant  8 5
+Condition MiniBossRoom0 MiniBoss:0
+Condition MiniBossRoom1 MiniBoss:1

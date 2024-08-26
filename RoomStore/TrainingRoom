@@ -1,0 +1,16 @@
+
+0
+Mannequin  2 5
+Mannequin  8 5
+NoteTile  5 4
+Block  8 4
+Block  9 4
+Block  9 6
+Block  8 6
+Block  1 6
+Block  2 6
+Block  2 4
+Block  1 4
+Door  0 5 Fill1
+Door  10 5 Fill2
+Door  5 10 StartRoom

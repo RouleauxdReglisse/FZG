@@ -1,0 +1,13 @@
+A pedastal waits in a dark room, illuminated by the light of warm flames. Atop it rests a wodden bow and a quiver. (E to charge bow, WASD to fire)
+1
+Bow
+Door  5 10 MiniBossRoom
+Block  4 1
+Block  4 2
+Block  4 3
+Block  6 3
+Block  6 2
+Block  6 1
+Block  6 5
+Block  4 5
+BowPickup i0o0 5 3

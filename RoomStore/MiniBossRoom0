@@ -1,0 +1,6 @@
+You see large sacks of boiling liquids growing from leafy plants. A large bipedal entity stands in the center, made of rock and clay, its eyes shine of green flame. the door behind you locks, as does the one to the north. Defend Yourself!
+1
+MiniBoss
+Golem i0 5 4
+LockedDoor o0 5 0 BowRoom
+LockedDoor o0 5 10 Fill2

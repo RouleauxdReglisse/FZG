@@ -1,0 +1,21 @@
+Less of a room and more of a cave hollow, stone formations reach from floor to ceiling. Large bats flutter around, are they friendly?
+0
+Door  5 0 PuzzleRoom
+Door  10 5 TrainingRoom
+Block  9 7
+Block  8 7
+Block  8 6
+Block  8 8
+Block  7 7
+Block  6 7
+Block  2 7
+Block  3 7
+Block  2 6
+Block  3 4
+Block  3 3
+Block  3 2
+Block  2 3
+Block  4 3
+Bat  1 2
+Bat  5 6
+Bat  8 1

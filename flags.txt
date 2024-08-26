@@ -1,0 +1,5 @@
+MiniBoss 0
+Bow 0
+Puzzle 0
+Boss 0
+Test 1

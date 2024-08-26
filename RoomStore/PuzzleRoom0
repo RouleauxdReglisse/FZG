@@ -1,0 +1,10 @@
+Dim contraptions wait in the corners of the room within walls of stone. There is a closed gate to the west.
+2
+Test
+Puzzle
+Switch i0 1 2
+Switch i0 9 2
+Block o0 2 8
+Switch i1 1 8
+Switch i1 9 8
+LockedDoor o1 0 5 BossRoom

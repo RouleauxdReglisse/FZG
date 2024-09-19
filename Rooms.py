@@ -16,7 +16,7 @@ class Room:
         self.display()
 
     def readFile(self,fileName):
-        file=open("FZG2/RoomStore/"+fileName)
+        file=open("RoomStore/"+fileName)
         features=file.read().split("\n")
         features.pop()
         self.text=features[0]

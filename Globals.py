@@ -20,7 +20,7 @@ class Game:
         return "e"+str(self.entities)
     
     def getFlags(self):
-        flagFile=open("FZG2/flags.txt","r")
+        flagFile=open("flags.txt","r")
         self.flags={}
         reading=flagFile.read().split("\n")
         reading.pop()

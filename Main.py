@@ -2,7 +2,7 @@ import tkinter as tink
 from TinkBox import *
 from Player import *
 from Rooms import *
-
+#comment
 
 class Main:
     def __init__(self):
